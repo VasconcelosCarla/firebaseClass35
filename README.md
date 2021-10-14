@@ -1,2 +1,2 @@
-# firebaseClass35
-position synchronization using database
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
